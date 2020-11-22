@@ -1,3 +1,15 @@
+/******
+ * Javascript myCAD class
+ *
+ * This class is free for the educational use as long as maintain this header together with this class.
+ * Author: Win Aung Cho
+ * Contact winaungcho@gmail.com
+ * version 1.0
+ * Date: 22-11-2020
+ *
+ ******/
+
+
 class myCAD {
 	constructor() {
 		this.canvas = document.getElementById('canvas');
